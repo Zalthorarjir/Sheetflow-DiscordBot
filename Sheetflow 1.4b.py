@@ -243,7 +243,7 @@ async def search(interaction: discord.Interaction, query: str, page: int = 1):
             admin_note = row[5]
             status = row[6]
             last_updated = row[7]
-            #request_id = row[0]
+            #request_id = row[0] #Disabled as seccurity measure, So that Members can not abuse the UUID to Update their own Posts.
             
             member_mention = f"<@{member_id}>"
 
@@ -253,7 +253,7 @@ async def search(interaction: discord.Interaction, query: str, page: int = 1):
             embed.add_field(name="Admin Note", value=admin_note, inline=False)
             embed.add_field(name="Status", value=status, inline=False)
             embed.add_field(name="Last Update", value=last_updated, inline=False)
-            #embed.add_field(name="Request ID", value=request_id, inline=False)
+            #embed.add_field(name="Request ID", value=request_id, inline=False) #Disabled as seccurity measure, So that Members can not abuse the UUID to Update their own Posts.
             embed.add_field(name="\u200b", value="\u200b", inline=False)  # Blank line between results
 
         embed.set_footer(text=f"Page {page} of {total_results // items_per_page + (1 if total_results % items_per_page else 0)}")
