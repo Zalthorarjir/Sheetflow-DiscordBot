@@ -6,9 +6,6 @@ Making Adaptations of this bot is highly encouraged!
 A few key features or optional changes might be missing currently:
 
 - Generalization outside of Roleplay uses.
-- Better search page system.
-- Delete entries.
-- Improved Approval system.
 - Webpage integrations.
 - BugFixes if Any are in the script.
 - Possibly more.
