@@ -18,10 +18,10 @@ The code is Fully Open-Source, And should stay Open-Source.
 
 2. Run Install.bat (Wait till it says Press any key to Continue.)
 **(Or run these commands one by one in CMD.)**
-#######################################
+
 py -3.12 -m pip install discord
 pip install python-dotenv
-#######################################
+
 
 Any Questions, Advice, Etc.
 Contact me Through Discord: @Zalthorarjir
