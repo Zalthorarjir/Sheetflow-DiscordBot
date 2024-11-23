@@ -12,6 +12,7 @@ A few key features or optional changes might be missing currently:
 
 The code is Fully Open-Source, And should stay Open-Source.
 
+
 **How to install**
 
 1. Install ptython 3.12.x (Not yet tested/working with newer yet.)
@@ -20,9 +21,10 @@ The code is Fully Open-Source, And should stay Open-Source.
 
 **(Or run these commands one by one in CMD.)**
 
-_py -3.12 -m pip install discord_
+**_py -3.12 -m pip install discord_**
 
-_pip install python-dotenv_
+**_pip install python-dotenv_**
+
 
 
 Any Questions, Advice, Etc.
