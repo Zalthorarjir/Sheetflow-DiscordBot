@@ -15,11 +15,11 @@ The code is Fully Open-Source, And should stay Open-Source.
 
 **How to install**
 
-1. Install ptython 3.12.x (Not yet tested/working with newer yet.)
+**1. Install ptython 3.12.x (Not yet tested/working with newer yet.)**
 
-2. Run Install.bat (Wait till it says Press any key to Continue.)
+**2. Run Install.bat (Wait till it says Press any key to Continue.)**
 
-**(Or run these commands one by one in CMD.)**
+(Or run these commands one by one in CMD.)
 
 **_py -3.12 -m pip install discord_**
 
