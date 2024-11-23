@@ -17,11 +17,13 @@ The code is Fully Open-Source, And should stay Open-Source.
 1. Install ptython 3.12.x (Not yet tested/working with newer yet.)
 
 2. Run Install.bat (Wait till it says Press any key to Continue.)
+
 **(Or run these commands one by one in CMD.)**
 
-py -3.12 -m pip install discord
+_py -3.12 -m pip install discord_
 
-pip install python-dotenv
+_pip install python-dotenv_
+
 
 Any Questions, Advice, Etc.
 Contact me Through Discord: @Zalthorarjir
