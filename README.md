@@ -12,6 +12,17 @@ A few key features or optional changes might be missing currently:
 
 The code is Fully Open-Source, And should stay Open-Source.
 
+**How to install**
+
+1. Install ptython 3.12.x (Not yet tested/working with newer yet.)
+
+2. Run Install.bat (Wait till it says Press any key to Continue.)
+**(Or run these commands one by one in CMD.)**
+#######################################
+py -3.12 -m pip install discord
+pip install python-dotenv
+#######################################
+
 Any Questions, Advice, Etc.
 Contact me Through Discord: @Zalthorarjir
 Comments, Bug Reports, Etc. Posted here on Github will Either have a huge delayed response time, Or not be responded to at all.
