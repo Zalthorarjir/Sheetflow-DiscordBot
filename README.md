@@ -1,32 +1,17 @@
-Sheetflow is a Discordbot build on Python.
+Sheetflow is a Discord bot built on Python.
 
-Its made to Send, Approve, And update uploaded Character sheets for Discord Roleplay.
-Making Adaptations of this bot is highly encouraged!
+It's made to send, approve, and update uploaded character sheets for Discord roleplay.
+Making adaptations of this bot is highly encouraged!
 
 A few key features or optional changes might be missing currently:
 
-- Generalization outside of Roleplay uses.
+- Generalization outside of roleplay uses.
 - Webpage integrations.
-- BugFixes if Any are in the script.
+- Bug fixes if any are in the script.
 - Possibly more.
 
-The code is Fully Open-Source, And should stay Open-Source.
+The code is fully open-source and should stay open-source.
 
-
-**How to install**
-
-**1. Install ptython 3.12.x (Not yet tested/working with newer yet.)**
-
-**2. Run Install.bat (Wait till it says Press any key to Continue.)**
-
-(Or run these commands one by one in CMD.)
-
-**_py -3.12 -m pip install discord_**
-
-**_pip install python-dotenv_**
-
-
-
-Any Questions, Advice, Etc.
-Contact me Through Discord: @Zalthorarjir
-Comments, Bug Reports, Etc. Posted here on Github will Either have a huge delayed response time, Or not be responded to at all.
+Any questions, advice, etc.?
+Contact me through Discord: @Zalthorarjir
+Comments, bug reports, etc. posted here on GitHub will either have a huge delayed response time or not be responded to at all.
